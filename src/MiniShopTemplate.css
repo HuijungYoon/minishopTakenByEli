@@ -1,7 +1,8 @@
 * {
   background-color: dimgrey;
 }
-.logo {
+.logo:hover {
+  transform: scale(1.2);
 }
 .MiniShopTemplate {
   display: flex;
