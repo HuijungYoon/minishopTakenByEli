@@ -1,0 +1,22 @@
+.MiniShopList {
+  height: 600px;
+  overflow: auto;
+}
+.clothsList {
+  margin-top: 12px;
+  background-color: white;
+  border-radius: 4px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.clothsList__img {
+  background-color: white;
+  width: 50px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.clothsList__genderAndSize {
+  background-color: white;
+  color: black;
+}

@@ -1,0 +1,13 @@
+* {
+  background-color: dimgrey;
+}
+.logo {
+}
+.MiniShopTemplate {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 6%;
+  padding: 0;
+}

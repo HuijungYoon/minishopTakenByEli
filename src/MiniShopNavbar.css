@@ -1,0 +1,63 @@
+:root {
+}
+
+.minishop__nav {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+.minishop__nav li {
+  list-style: none;
+}
+
+.blue__s {
+  width: 50px;
+}
+.blue__s:hover {
+  transform: scale(1.5);
+}
+.blue__p {
+  width: 50px;
+}
+.blue__p:hover {
+  transform: scale(1.5);
+}
+.blue__t {
+  width: 50px;
+}
+.blue__t:hover {
+  transform: scale(1.5);
+}
+.btn__blue {
+  width: 50px;
+  height: 40px;
+  text-align: center;
+  background: #0693e3;
+  border-style: none;
+}
+.btn__blue:hover {
+  transform: scale(1.5);
+}
+
+.btn__yellow {
+  width: 60px;
+  height: 40px;
+  text-align: center;
+  background: #ffc107;
+  border-style: none;
+}
+.btn__yellow:hover {
+  transform: scale(1.5);
+}
+.btn__pink {
+  width: 50px;
+  height: 40px;
+  text-align: center;
+  background: #f78da7;
+  border-style: none;
+}
+.btn__pink:hover {
+  transform: scale(1.5);
+}
